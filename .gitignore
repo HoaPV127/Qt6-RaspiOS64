@@ -1,0 +1,4 @@
+./build_*
+./qt*
+./raspiOS_sysroot*
+./*sysroot*
